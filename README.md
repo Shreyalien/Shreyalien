@@ -118,24 +118,6 @@ class ShreyaGolder:
 
 ---
 
-## 🏆 **Achievements**
-
-- 🥇 Best Student of Khulna Division
-- 🥈 Medalist, Bangladesh Math Olympiad (Faridpur Region)
-- 🎨 Winner — Singing, Essay Writing & Art Competitions
-
----
-
-## 🌱 **Social Activities**
-
-- Assistant General Secretary, Research Wing, Girl's Computer Programming Club — DIU(GCPC)
-- Executive Member, Research Wing, Computer Programming Club — DIU(CPC)
-- Member, Cultural Club — DIU
-- Bangladesh National Cadet Corps (Air Wing)
-- Bangladesh Scout
-
----
-
 ## 🤝 **Let's Connect & Collaborate**
 
 <div align="center">
