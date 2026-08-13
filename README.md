@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=5B8DFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shreya+Golder;Web+Developer+%7C+UI%2FUX+Explorer;CSE+Student+%40+Daffodil+International+University;Curious+about+AI+%26+Cybersecurity)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Portfolio-2b56d6?style=flat-square" />
+<img src="https://img.shields.io/badge/CSE-2b56d6?style=flat-square" />
 <img src="https://img.shields.io/badge/Daffodil_International_University-2b56d6?style=flat-square" />
 <img src="https://img.shields.io/badge/📍_Bangladesh-2b56d6?style=flat-square" />
 
