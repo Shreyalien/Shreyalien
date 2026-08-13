@@ -1,148 +1,93 @@
 <div align="center">
 
-# 👋 Hello, I'm **Shreya Golder**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1a44,50:2b56d6,100:9E155C&height=200&section=header&text=Hi%2C%20I'm%20Shreya%20%F0%9F%91%8B&fontSize=48&fontColor=EEF1FB&fontAlignY=38&desc=CSE%20Student%20%C2%B7%20Web%20Developer%20%C2%B7%20UI/UX%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=5B8DFF&center=true&vCenter=true&multiline=false&width=600&height=40&lines=building+on+the+web%2C+curious+about+everything+after+it.;a+CSE+student+at+DIU.;a+UI%2FUX+explorer.;an+AI+%26+cybersecurity+learner." alt="typing tagline" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreyalien&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Shreyalien?label=Followers&style=for-the-badge&color=764ba2&logoColor=white" alt="GitHub Followers" />
-</p>
+<br/>
 
-</div>
+<img src="https://img.shields.io/badge/portfolio-live-2b56d6?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/CSE_Student-Daffodil_International_University-9E155C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/based_in-Bangladesh-2b9e6f?style=for-the-badge" />
 
----
+<br/><br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🧑‍💻 **About Me:**
-
-```python
-class ShreyaGolder:
-    def __init__(self):
-        self.name = "Shreya Golder"
-        self.location = "Khulna, Bangladesh 🇧🇩"
-        self.education = "CSE Student at Daffodil International University"
-        self.role = "Aspiring Software Developer"
-        self.interests = [
-            "Software Development",
-            "Artificial Intelligence",
-            "Problem-Solving & Algorithms",
-            "Web Development",
-            "Cyber Security"
-        ]
-```
-
-<br clear="right"/>
-
----
-
-## 🎯 **What I'm Up To**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤝 **Looking to Collaborate On:**
-- 💻 **Software Development** — Turning ideas into reality through code, one project at a time.
-- 🧩 **Problem Solving & Algorithms** — Building a strong foundation through practice and challenges.
-- 🌐 **Web Development** — Growing my frontend skills with HTML, CSS, and JavaScript.
-- 🤖 **Artificial Intelligence** — Exploring how AI works and where it's headed.
-- 🔐 **Cyber Security** — Learning the fundamentals of secure systems and practices.
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 **Ask Me About:**
-- ⚡ **Programming** — **C**, **Python**, and **Java** (basics).
-- 🌐 **Web Development** — **HTML**, **CSS**, **JavaScript**, and **WordPress**.
-- 📊 **Microsoft Office** — Word, Excel, PowerPoint, Outlook, and Access.
-- 🎨 **Creative Pursuits** — Singing, painting, sculpting, and writing.
-- ✍️ **Writing** — Published author of a self-comeback story, *'Obaak Prottyabartan'*.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🚀 **My Goals:**
-- 🎯 Become a skilled **Software Developer**.
-- 🧠 Strengthen my **problem-solving**, **DSA**, and coding skills.
-- 🤖 Deepen my knowledge of **Artificial Intelligence**.
-- 🛡️ Build a solid foundation in **Cyber Security**.
-- 📈 Keep learning, building, and contributing to real-world projects.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ **Tech Arsenal**
-
-<div align="center">
-
-### 🧩 **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python" />
-</p>
-
-### ⚛️ **Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress" />
-</p>
-
-### ⚙️ **Tools & Environment**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
-</p>
+<a href="https://shreyalien.netlify.app/">🔗 Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Shreyalien/OpenGovtBD">📌 Featured Project</a>
+&nbsp;·&nbsp;
+<a href="mailto:24.shreya.42@gmail.com">✉️ Contact</a>
 
 </div>
 
----
+<br/>
 
-## 📊 **GitHub Analytics**
+## 📌 About Me
+
+- 🎓 First-year **B.Sc. in Computer Science & Engineering** student at Daffodil International University
+- 💻 Currently building my skills in **web development** and **UI/UX design**
+- 🤖 Exploring **AI** and **cybersecurity** on the side
+- 🌱 Learning by shipping real, polished projects instead of just tutorials
+- 📫 Reach me at **24.shreya.42@gmail.com**
+
+## 🛠️ Tech Stack
+
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyalien&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyalien&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreyalien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B8DFF&icon_color=9E155C&text_color=EEF1FB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyalien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B8DFF&text_color=EEF1FB" />
 </div>
 
 <div align="center">
-
-[![Shreya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyalien&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyalien&theme=tokyonight&hide_border=true&background=0D1117&ring=5B8DFF&fire=9E155C&currStreakLabel=EEF1FB" />
 </div>
 
----
+## 🐍 Contribution Snake
 
-## 🤝 **Let's Connect & Collaborate**
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreyalien/Shreyalien/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreyalien/Shreyalien/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Shreyalien/Shreyalien/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<p align="center"><sub>Generated automatically once a day by the GitHub Action in <code>.github/workflows/snake.yml</code></sub></p>
+
+## 📌 Featured Project
 
 <div align="center">
 
-<a href="https://github.com/Shreyalien">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:24.shreya.42@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://facebook.com/shreyalien">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://www.instagram.com/_shreyalien_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+[![OpenGovtBD](https://github-readme-stats.vercel.app/api/pin/?username=Shreyalien&repo=OpenGovtBD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B8DFF&icon_color=9E155C&text_color=EEF1FB)](https://github.com/Shreyalien/OpenGovtBD)
 
 </div>
 
----
+## ✉️ Connect With Me
 
 <div align="center">
 
-**⭐ From Shreya | Made with ❤️ and lots of ☕**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+[![Portfolio](https://img.shields.io/badge/Portfolio-shreyalien.netlify.app-2b56d6?style=for-the-badge&logo=netlify&logoColor=white)](https://shreyalien.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-24.shreya.42%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24.shreya.42@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Shreya_Golder-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shreyalien)
+[![Instagram](https://img.shields.io/badge/Instagram-_shreyalien__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_shreyalien_/)
 
 </div>
+
+<br/>
+
+<div align="center">
+<sub>Designed &amp; built by Shreya Golder · © 2026</sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9E155C,50:2b56d6,100:0e1a44&height=100&section=footer" alt="footer banner" />
