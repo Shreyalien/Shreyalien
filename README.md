@@ -19,39 +19,71 @@
 
 ### ◈ About
 
-First-year **CSE student at Daffodil International University**, building real, polished products instead of just class assignments — currently sharpening my **web development** and **UI/UX design** skills, with **AI** and **cybersecurity** as topics I keep pulling on the side. My personal portfolio is a hand-built, animation-rich single-page site with no frameworks — just HTML, CSS and JS pushed as far as they'll go. Right now I'm part of the team building **OpenGovtBD**, a citizen–government engagement platform. I like building things that actually feel finished.
+First-year **CSE student at Daffodil International University**, building real, polished products instead of just class assignments — currently sharpening my **web development** and **UI/UX design** skills, with **AI** and **cybersecurity** as topics I keep pulling on the side. My personal portfolio is a hand-built, animation-rich single-page site with no frameworks — just HTML, CSS and JS pushed as far as they'll go. I like building things that actually feel finished.
 
 ### ◈ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,figma,py&theme=dark" />
 </div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-2b56d6?style=for-the-badge&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
-### ◈ Featured Project
-
-**[🏛️ OpenGovtBD](https://github.com/Shreyalien/OpenGovtBD)** — a citizen–government engagement platform built for Bangladesh, designed to close the gap between people and public offices.
-
-<div align="center">
-<img src="https://img.shields.io/badge/complaint_tracking-9E155C?style=flat-square" />
-<img src="https://img.shields.io/badge/public_discussions-9E155C?style=flat-square" />
-<img src="https://img.shields.io/badge/official_polls-9E155C?style=flat-square" />
-<img src="https://img.shields.io/badge/suggestion_box-9E155C?style=flat-square" />
-<img src="https://img.shields.io/badge/role_based_dashboards-9E155C?style=flat-square" />
-</div>
-
-Separate, role-based dashboards let **citizens** file and track complaints, **officers** respond and manage cases, and **admins** oversee the platform — turning scattered civic feedback into something searchable, accountable, and public.
+### ◈ Projects
 
 <div align="center">
 
-[![OpenGovtBD](https://github-readme-stats.vercel.app/api/pin/?username=Shreyalien&repo=OpenGovtBD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B8DFF&icon_color=9E155C&text_color=EEF1FB)](https://github.com/Shreyalien/OpenGovtBD)
+<a href="https://github.com/Shreyalien/CareerMirror">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyalien&repo=CareerMirror&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B8DFF&icon_color=9E155C&text_color=EEF1FB" />
+</a>
+<a href="https://github.com/Shreyalien/Porshi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyalien&repo=Porshi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B8DFF&icon_color=9E155C&text_color=EEF1FB" />
+</a>
+
+<a href="https://github.com/Shreyalien/BugAtlas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyalien&repo=BugAtlas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B8DFF&icon_color=9E155C&text_color=EEF1FB" />
+</a>
+<a href="https://github.com/Shreyalien/OpenGovtBD">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyalien&repo=OpenGovtBD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B8DFF&icon_color=9E155C&text_color=EEF1FB" />
+</a>
 
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🪞 [CareerMirror](https://github.com/Shreyalien/CareerMirror)**
+CV feedback the way an actual recruiter would give it — pick a persona, choose Roast or Coach mode, get skill-fit, career-fit, and CV health scores with a full visual breakdown. React + Node/Express, backed by the Claude API with a deterministic local fallback.
+
+</td>
+<td width="50%" valign="top">
+
+**🏘️ [Porshi (পড়শী)](https://github.com/Shreyalien/Porshi)**
+A hyper-local civic services directory connecting Bangladeshi citizens with 40+ categories of verified doorstep professionals — plus a 24/7 emergency hub and neighborhood discussion board. MERN stack, full EN/বাং bilingual support.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🐛 [BugAtlas](https://github.com/Shreyalien/BugAtlas)**
+A gamified bug-investigation platform that turns incidents into interactive cases — clues, evidence, XP, achievements, and a leaderboard, with real-time updates via Socket.IO. React 19 + Node/Express + SQLite.
+
+</td>
+<td width="50%" valign="top">
+
+**🏛️ [OpenGovtBD](https://github.com/Shreyalien/OpenGovtBD)**
+A citizen–government engagement platform for Bangladesh with complaint tracking, public discussions, official polls, and role-based dashboards for citizens, officers, and admins.
+
+</td>
+</tr>
+</table>
 
 ### ◈ GitHub Stats
 
