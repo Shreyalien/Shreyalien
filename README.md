@@ -4,15 +4,30 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=5B8DFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shreya+Golder;Web+Developer+%7C+UI%2FUX+Explorer;CSE+Student+%40+Daffodil+International+University;Curious+about+AI+%26+Cybersecurity)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/CSE-2b56d6?style=flat-square" />
-<img src="https://img.shields.io/badge/Daffodil_International_University-2b56d6?style=flat-square" />
-<img src="https://img.shields.io/badge/📍_Bangladesh-2b56d6?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/CSE-2b56d6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Daffodil_International_University-2b56d6?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Bangladesh-2b56d6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_for-Collaboration-9E155C?style=flat-square" />
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24.shreya.42@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shreya-golder)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyalien)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2b56d6?style=for-the-badge&logo=vercel&logoColor=white)](https://shreyalien.netlify.app/)
-[![Followers](https://img.shields.io/github/followers/Shreyalien?label=Followers&style=flat-square&color=2b56d6&logo=github&logoColor=white)](https://github.com/Shreyalien)
+<p align="center">
+  <a href="mailto:24.shreya.42@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="http://www.linkedin.com/in/shreya-golder" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://shreyalien.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2b56d6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shreyalien" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shreyalien?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Shreyalien?label=Followers&style=for-the-badge&color=9E155C&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2b56d6&height=2&section=header" />
 
